@@ -1,0 +1,12 @@
+.first-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+li {
+    border-style: solid;
+    margin: 20px 20px;
+    list-style-type: none;
+}
